@@ -1,4 +1,4 @@
-# azcontainer
+# Azcontainer
 
 Go dilində sıfırdan yazılmış Docker tipli container runtime. Linux namespaces, cgroups v2, OverlayFS, capabilities, seccomp, OCI image və runtime spesifikasiyaları, bridge networking + NAT, və JSON-RPC API ilə daemon arxitekturası daxildir.
 
