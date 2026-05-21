@@ -1,0 +1,6 @@
+Yadda saxla
+
+go build -o azcontainer ./cmd/azcontainer — bu komanda kök qovluqdan işlədilməlidir
+Çıxış (-o azcontainer) — kök qovluqda yaradılır
+./azcontainer run ... — yenə kök qovluqdan işlədilməlidir
+
