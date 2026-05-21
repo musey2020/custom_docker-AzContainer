@@ -1,4 +1,4 @@
-# azcontainer
+# Azcontainer
 
 A Docker-like container runtime built from scratch in Go. Implements Linux namespaces, cgroups v2, OverlayFS, capabilities, seccomp, OCI image & runtime specs, bridge networking with NAT, and a daemon with JSON-RPC API.
 
